@@ -1,0 +1,106 @@
+{
+  "_description": "궁합 상세 분석 데이터. 점수 구간별로 매칭. 리워드 광고 시청 후 잠금해제되는 콘텐츠.",
+  "_usage": "점수(0-100)를 기준으로 해당 구간의 데이터를 표시. 같은 구간 내 여러 항목이 있으면 이름 해시로 결정론적 선택.",
+  "score_ranges": [
+    {
+      "range": [0, 20],
+      "label": "아슬아슬",
+      "types": [
+        {
+          "type_name": "서먹서먹 사이",
+          "emoji": "😅",
+          "friendship_stars": 2,
+          "chemistry_point": "아직은 서로를 잘 모르는 사이! 더 많이 대화해봐!",
+          "advice": "같이 간식 나눠 먹으면 금방 친해질 수 있어!"
+        },
+        {
+          "type_name": "느리지만 확실한 우정",
+          "emoji": "🐢",
+          "friendship_stars": 2,
+          "chemistry_point": "천천히 친해지는 타입이야. 조급해하지 마!",
+          "advice": "먼저 말 걸어보면 의외로 잘 통할 수도!"
+        }
+      ]
+    },
+    {
+      "range": [21, 40],
+      "label": "나쁘지 않아요",
+      "types": [
+        {
+          "type_name": "숨은 케미 폭발형",
+          "emoji": "🎭",
+          "friendship_stars": 3,
+          "chemistry_point": "겉으로는 안 맞아 보여도, 같이 놀면 의외로 재밌어!",
+          "advice": "공통 관심사를 찾아봐! 게임? 만화? 운동?"
+        },
+        {
+          "type_name": "웃기는 티격태격",
+          "emoji": "😜",
+          "friendship_stars": 3,
+          "chemistry_point": "싸우면서 친해지는 타입! 장난이 곧 우정이야",
+          "advice": "놀리더라도 마음은 따뜻하게~"
+        }
+      ]
+    },
+    {
+      "range": [41, 60],
+      "label": "괜찮은 사이!",
+      "types": [
+        {
+          "type_name": "편한 동네 친구",
+          "emoji": "🏠",
+          "friendship_stars": 3,
+          "chemistry_point": "같이 있으면 편하고 자연스러운 관계야!",
+          "advice": "이 편안함을 소중히 여기면 오래가는 우정이 될 거야"
+        },
+        {
+          "type_name": "학교 베스트 프렌드",
+          "emoji": "📚",
+          "friendship_stars": 4,
+          "chemistry_point": "학교에서 가장 잘 맞는 친구! 같은 반이면 최고!",
+          "advice": "방과 후에도 같이 놀아봐!"
+        }
+      ]
+    },
+    {
+      "range": [61, 80],
+      "label": "찰떡궁합!",
+      "types": [
+        {
+          "type_name": "환상의 짝꿍",
+          "emoji": "🤝",
+          "friendship_stars": 4,
+          "chemistry_point": "짝꿍 하면 교실이 놀이터가 되는 조합!",
+          "advice": "서로 도와주면 뭐든 잘 할 수 있어!"
+        },
+        {
+          "type_name": "웃음 제조기 콤비",
+          "emoji": "😂",
+          "friendship_stars": 5,
+          "chemistry_point": "같이 있으면 웃음이 끊이지 않는 조합!",
+          "advice": "이 케미를 반 친구들에게도 보여줘!"
+        }
+      ]
+    },
+    {
+      "range": [81, 100],
+      "label": "운명의 짝꿍!",
+      "types": [
+        {
+          "type_name": "소울메이트",
+          "emoji": "💫",
+          "friendship_stars": 5,
+          "chemistry_point": "말 안 해도 서로의 마음을 아는 특별한 사이!",
+          "advice": "이런 인연은 흔치 않아! 평생 친구가 될 수도!"
+        },
+        {
+          "type_name": "운명의 짝꿍",
+          "emoji": "💕",
+          "friendship_stars": 5,
+          "chemistry_point": "서로 부족한 걸 채워주는 사이! 함께 있을 때 가장 빛나!",
+          "advice": "서로에게 감사하다고 말해봐~ 더 가까워질 거야!"
+        }
+      ]
+    }
+  ]
+}
