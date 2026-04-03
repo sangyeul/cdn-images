@@ -190,6 +190,541 @@
       "love_stars": 5,
       "friendship_stars": 5,
       "lucky_item": "네잎클로버 스티커"
+    },
+
+    {
+      "message": "음악 시간에 박수를 크게 치면 인기 운이 올라가!",
+      "love_stars": 3,
+      "friendship_stars": 4,
+      "lucky_item": "주황색 캐스터네츠"
+    },
+    {
+      "message": "오늘 급식에서 디저트가 나올 수도! 기대해봐~",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "민트색 수저케이스"
+    },
+    {
+      "message": "국어 시간에 손 들고 대답하면 선생님이 깜짝 놀랄 거야!",
+      "love_stars": 2,
+      "friendship_stars": 3,
+      "lucky_item": "연두색 형광펜"
+    },
+    {
+      "message": "오늘 체육복을 입으면 왠지 더 멋져 보이는 날!",
+      "love_stars": 4,
+      "friendship_stars": 3,
+      "lucky_item": "흰색 손목밴드"
+    },
+    {
+      "message": "쉬는 시간에 복도에서 좋아하는 친구와 마주칠 확률 100%!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "레몬맛 사탕"
+    },
+    {
+      "message": "과학 시간에 실험 파트너가 특별한 사람이 될지도!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "투명 시험관 스티커"
+    },
+    {
+      "message": "오늘 도서관에 가면 운명적인 만남이 있을 수도!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "갈색 가죽 북마크"
+    },
+    {
+      "message": "급식 줄에서 친구에게 양보하면 우정 포인트 두 배!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "금색 동전 지갑"
+    },
+    {
+      "message": "오늘 실내화를 깨끗이 신으면 좋은 기운이 따라와!",
+      "love_stars": 3,
+      "friendship_stars": 3,
+      "lucky_item": "하얀색 실내화 주머니"
+    },
+    {
+      "message": "수업 끝나고 칠판 지우기를 도와주면 감동 이벤트 발생!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "분필 가루 털이개"
+    },
+    {
+      "message": "오늘 짝꿍에게 연필을 빌려주면 둘 사이가 가까워져!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "코랄색 샤프심"
+    },
+    {
+      "message": "하교 후 편의점에서 새로운 간식을 발견할 운!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "체크무늬 에코백"
+    },
+    {
+      "message": "오늘 알림장을 예쁘게 쓰면 좋은 일이 생겨!",
+      "love_stars": 2,
+      "friendship_stars": 3,
+      "lucky_item": "보라색 마스킹테이프"
+    },
+    {
+      "message": "친구랑 같이 화장실 가면 비밀 이야기를 듣게 될지도!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "핑크색 손거울"
+    },
+    {
+      "message": "오늘 줄넘기를 하면 체력 운이 쭉쭉 올라가!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "형광 초록 줄넘기"
+    },
+    {
+      "message": "좋아하는 친구가 오늘 너한테 과자를 줄 수도 있어!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "곰젤리 한 봉지"
+    },
+    {
+      "message": "사회 시간에 모둠 활동하면 숨은 인연을 만날 수도!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "연보라색 포스트잇"
+    },
+    {
+      "message": "오늘 학교 화단에서 예쁜 꽃을 발견하면 행운의 징조!",
+      "love_stars": 3,
+      "friendship_stars": 2,
+      "lucky_item": "꽃 모양 헤어핀"
+    },
+    {
+      "message": "친구한테 재밌는 퀴즈를 내면 분위기 메이커 등극!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "수수께끼 노트"
+    },
+    {
+      "message": "방과 후 학원 가는 길에 무지개를 볼 수도 있어!",
+      "love_stars": 2,
+      "friendship_stars": 2,
+      "lucky_item": "무지개 우산"
+    },
+    {
+      "message": "오늘 좋아하는 친구 이름을 공책에 몰래 쓰면 소원 성취!",
+      "love_stars": 5,
+      "friendship_stars": 2,
+      "lucky_item": "비밀 자물쇠 노트"
+    },
+    {
+      "message": "체육 시간 달리기에서 1등 하면 인기 급상승!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "빨간색 머리띠"
+    },
+    {
+      "message": "오늘은 친구에게 재밌는 이모티콘을 보내봐! 답장이 빨리 와!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "캐릭터 폰케이스"
+    },
+    {
+      "message": "영어 시간에 멋지게 대답하면 반 친구들이 감탄할 거야!",
+      "love_stars": 3,
+      "friendship_stars": 4,
+      "lucky_item": "알파벳 스탬프"
+    },
+    {
+      "message": "비 오는 날 우산을 같이 쓰면 두근두근 이벤트 발생!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "투명 비닐우산"
+    },
+    {
+      "message": "오늘 점심에 친구와 자리를 바꿔 앉으면 새로운 발견이!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "줄무늬 방석"
+    },
+    {
+      "message": "청소 시간에 열심히 하면 칭찬 스티커를 받을 운!",
+      "love_stars": 1,
+      "friendship_stars": 4,
+      "lucky_item": "왕관 모양 스티커"
+    },
+    {
+      "message": "좋아하는 친구랑 눈이 마주치면 3초간 행복해질 거야!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "하트 선글라스"
+    },
+    {
+      "message": "오늘 학교 끝나고 공원에 가면 기분이 아주 좋아져!",
+      "love_stars": 2,
+      "friendship_stars": 3,
+      "lucky_item": "초록색 텀블러"
+    },
+    {
+      "message": "짝꿍이 오늘 너한테 재밌는 그림을 그려줄지도!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "파스텔 크레파스"
+    },
+    {
+      "message": "도덕 시간에 좋은 말을 하면 반 전체가 너를 좋아하게 돼!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "노란 스마일 배지"
+    },
+    {
+      "message": "봄바람이 불면 설레는 일이 생기는 날이야!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "벚꽃 모양 머리핀"
+    },
+    {
+      "message": "오늘 급식판을 정리대에 올려놓을 때 옆 사람을 확인해봐!",
+      "love_stars": 4,
+      "friendship_stars": 3,
+      "lucky_item": "은색 스푼 열쇠고리"
+    },
+    {
+      "message": "친구와 가위바위보를 하면 오늘은 네가 이길 운!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "주먹 모양 쿠션"
+    },
+    {
+      "message": "오늘 햇빛이 따뜻한 자리에 앉으면 기분이 좋아져!",
+      "love_stars": 3,
+      "friendship_stars": 3,
+      "lucky_item": "해바라기 스티커"
+    },
+    {
+      "message": "실과 시간에 만든 작품을 좋아하는 친구에게 선물해봐!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "무지개 실타래"
+    },
+    {
+      "message": "쉬는 시간에 물을 많이 마시면 피부가 반짝반짝!",
+      "love_stars": 2,
+      "friendship_stars": 2,
+      "lucky_item": "파란색 물병"
+    },
+    {
+      "message": "친구가 속상해하면 토닥토닥 해줘! 너의 주가가 올라가!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "곰인형 키링"
+    },
+    {
+      "message": "오늘 사물함을 정리하면 잃어버린 보물을 찾을 수도!",
+      "love_stars": 1,
+      "friendship_stars": 2,
+      "lucky_item": "미니 정리함"
+    },
+    {
+      "message": "좋아하는 친구 앞에서 넘어져도 괜찮아! 오히려 귀여워 보여!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "반창고 스티커"
+    },
+    {
+      "message": "오늘 컴퓨터 시간에 옆자리 친구와 친해질 기회가!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "마우스패드 스티커"
+    },
+    {
+      "message": "따뜻한 코코아를 마시면 마음이 포근해지는 날!",
+      "love_stars": 3,
+      "friendship_stars": 3,
+      "lucky_item": "갈색 머그컵"
+    },
+    {
+      "message": "친구에게 귀여운 별명을 지어주면 둘만의 비밀이 생겨!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "별 모양 이름표"
+    },
+    {
+      "message": "오늘 하늘이 맑으면 소풍 가고 싶은 기분이 들 거야!",
+      "love_stars": 3,
+      "friendship_stars": 4,
+      "lucky_item": "체크 돗자리"
+    },
+    {
+      "message": "방과 후 수업에서 새로운 재능을 발견할 수도!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "연필깎이 세트"
+    },
+    {
+      "message": "오늘 좋아하는 친구의 뒷모습을 보면 심장이 쿵!",
+      "love_stars": 5,
+      "friendship_stars": 2,
+      "lucky_item": "하트 모양 쿠키"
+    },
+    {
+      "message": "쉬는 시간에 딱지치기를 하면 우정이 돈독해져!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "금색 딱지"
+    },
+    {
+      "message": "오늘 선생님이 너를 특별히 칭찬해줄 운!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "별 다섯 개 스탬프"
+    },
+    {
+      "message": "눈 오는 날 친구와 눈사람을 만들면 추억이 쌓여!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "빨간 목도리"
+    },
+    {
+      "message": "오늘 모둠 발표에서 리더를 맡으면 인기 운 상승!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "미니 레이저 포인터"
+    },
+    {
+      "message": "좋아하는 친구와 같은 급식 메뉴를 좋아한다면 인연이야!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "커플 스티커"
+    },
+    {
+      "message": "오늘 그림일기를 쓰면 내일 영감이 팡팡 터져!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "수채화 물감 세트"
+    },
+    {
+      "message": "친구에게 '오늘 예뻐 보인다'고 말하면 기적이 일어나!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "거울 스티커"
+    },
+    {
+      "message": "오늘 계단에서 좋아하는 친구와 스쳐 지나갈 운!",
+      "love_stars": 5,
+      "friendship_stars": 2,
+      "lucky_item": "은색 발찌"
+    },
+    {
+      "message": "여름에 부채를 부치면 시원한 인연이 찾아와!",
+      "love_stars": 3,
+      "friendship_stars": 3,
+      "lucky_item": "수박 모양 부채"
+    },
+    {
+      "message": "오늘 학교 가는 길에 고양이를 만나면 대박 행운!",
+      "love_stars": 4,
+      "friendship_stars": 3,
+      "lucky_item": "고양이 발바닥 스티커"
+    },
+    {
+      "message": "친구랑 같이 노래를 부르면 우정 게이지가 꽉 차!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "마이크 모양 펜"
+    },
+    {
+      "message": "오늘 시험지를 받으면 예상보다 점수가 좋을 운!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "행운의 연필"
+    },
+    {
+      "message": "좋아하는 친구가 빌린 물건을 돌려주러 올 수도!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "민트색 클립"
+    },
+    {
+      "message": "가을 낙엽을 밟으며 걸으면 설레는 일이 생겨!",
+      "love_stars": 4,
+      "friendship_stars": 3,
+      "lucky_item": "단풍잎 책갈피"
+    },
+    {
+      "message": "오늘 양치질을 열심히 하면 환한 미소가 행운을 불러!",
+      "love_stars": 3,
+      "friendship_stars": 2,
+      "lucky_item": "캐릭터 칫솔"
+    },
+    {
+      "message": "방과 후에 친구와 분식집 가면 재밌는 일이 벌어져!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "떡볶이 모양 열쇠고리"
+    },
+    {
+      "message": "오늘 교실 뒤쪽 게시판을 보면 깜짝 소식이!",
+      "love_stars": 2,
+      "friendship_stars": 3,
+      "lucky_item": "압정 세트"
+    },
+    {
+      "message": "좋아하는 친구에게 쪽지를 보내면 답장이 올 확률 UP!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "핑크 편지지"
+    },
+    {
+      "message": "겨울에 손이 시려울 때 친구가 손잡아줄지도!",
+      "love_stars": 5,
+      "friendship_stars": 5,
+      "lucky_item": "토끼 장갑"
+    },
+    {
+      "message": "오늘 체육 시간 피구에서 마지막까지 살아남을 운!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "파란 스포츠 밴드"
+    },
+    {
+      "message": "친구에게 손편지를 받으면 하루가 행복해질 거야!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "레이스 봉투"
+    },
+    {
+      "message": "오늘 학교 앞 문방구에서 행운의 아이템을 발견할 수도!",
+      "love_stars": 2,
+      "friendship_stars": 2,
+      "lucky_item": "뽑기 동전"
+    },
+    {
+      "message": "짝꿍과 소곤소곤 이야기하면 둘만의 세계가 만들어져!",
+      "love_stars": 4,
+      "friendship_stars": 5,
+      "lucky_item": "비밀 메모장"
+    },
+    {
+      "message": "맑은 날 운동장에서 뛰놀면 에너지가 충전돼!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "형광 노란 공"
+    },
+    {
+      "message": "오늘 좋아하는 친구의 웃는 얼굴을 보면 심장이 콩닥콩닥!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "하트 모양 안경"
+    },
+    {
+      "message": "수업 시간에 손을 번쩍 들면 자신감이 하늘을 찔러!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "빨간색 응원봉"
+    },
+    {
+      "message": "오늘 친구와 팔짱 끼고 걸으면 우정이 더 깊어져!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "우정 반지"
+    },
+    {
+      "message": "비 온 뒤 무지개가 뜨면 소원이 이루어지는 날!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "무지개색 머리끈"
+    },
+    {
+      "message": "오늘 학교 텃밭에서 새싹을 발견하면 행운의 시작!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "미니 화분"
+    },
+    {
+      "message": "좋아하는 친구가 오늘 너를 불러세울 수도 있어! 두근!",
+      "love_stars": 5,
+      "friendship_stars": 3,
+      "lucky_item": "체리맛 사탕"
+    },
+    {
+      "message": "친구와 함께 숙제하면 어려운 문제도 금방 풀려!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "파란색 수정테이프"
+    },
+    {
+      "message": "오늘 점심에 우유를 마시면 키가 쑥쑥 클 운!",
+      "love_stars": 1,
+      "friendship_stars": 3,
+      "lucky_item": "우유갑 열쇠고리"
+    },
+    {
+      "message": "따뜻한 봄날 벤치에 앉으면 좋아하는 친구가 옆에 앉을지도!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "꽃잎 모양 스티커"
+    },
+    {
+      "message": "오늘 가방에 귀여운 키링을 달면 관심을 받을 거야!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "토끼 키링"
+    },
+    {
+      "message": "방학 계획을 세우면 친구와 함께할 추억이 가득!",
+      "love_stars": 2,
+      "friendship_stars": 5,
+      "lucky_item": "알록달록 달력"
+    },
+    {
+      "message": "오늘 자유 시간에 보드게임을 하면 모두가 즐거워!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "미니 주사위"
+    },
+    {
+      "message": "서늘한 바람이 불면 따뜻한 마음을 가진 친구가 다가와!",
+      "love_stars": 4,
+      "friendship_stars": 4,
+      "lucky_item": "체크 담요"
+    },
+    {
+      "message": "오늘 좋아하는 친구 앞에서 실수해도 오히려 매력이 돼!",
+      "love_stars": 4,
+      "friendship_stars": 3,
+      "lucky_item": "반짝이 헤어밴드"
+    },
+    {
+      "message": "친구와 비밀 악수를 만들면 특별한 사이가 돼!",
+      "love_stars": 3,
+      "friendship_stars": 5,
+      "lucky_item": "스파이 노트"
+    },
+    {
+      "message": "오늘 학교 끝나고 놀이터에 가면 즐거운 일이 가득!",
+      "love_stars": 2,
+      "friendship_stars": 4,
+      "lucky_item": "분홍색 줄넘기"
+    },
+    {
+      "message": "맑은 하늘을 올려다보면 좋은 아이디어가 떠올라!",
+      "love_stars": 1,
+      "friendship_stars": 2,
+      "lucky_item": "구름 모양 메모지"
+    },
+    {
+      "message": "좋아하는 친구에게 지우개를 빌려주면 운명의 시작!",
+      "love_stars": 5,
+      "friendship_stars": 4,
+      "lucky_item": "별 모양 지우개"
+    },
+    {
+      "message": "오늘 반 회의에서 좋은 의견을 내면 리더 운이!",
+      "love_stars": 1,
+      "friendship_stars": 4,
+      "lucky_item": "초록 깃발"
     }
   ]
 }
